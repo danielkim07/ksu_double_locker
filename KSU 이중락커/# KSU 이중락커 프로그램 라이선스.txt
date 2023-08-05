@@ -1,7 +1,0 @@
-# KSU 이중보안 프로그램 라이선스
-
-해당 프로그램에 대한 저작권 및 코드는 KSU Studios에 재산입니다.
-
-해당 프로그램을 무단 복제 및 배포하는 경우 관련 법령에 따라 처벌 될수 있습니다.
-
-버그 또는 오류 발생시 (이메일 - support@ksustudios.kro.kr 또는 디스코드 - ksu_official / https://discord.gg/TzYSFHQhev) 으로 제보해주세요!
